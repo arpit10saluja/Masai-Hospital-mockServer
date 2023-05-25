@@ -1,6 +1,6 @@
 {
   "users": [],
-  "Doctor":[
+"appointments":[
 	{
 	  "name": "Jane Doe",
 	  "image": "https://example.com/doctor-image.jpg",
@@ -22,5 +22,4 @@
 	  "fee": 100
 	}
 ],
-"appointments":[]
 }
